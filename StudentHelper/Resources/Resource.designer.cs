@@ -3277,17 +3277,30 @@ namespace StudentHelper
 			// aapt resource value: 0x7f0a0069
 			public const int action_bar_title = 2131361897;
 			
+<<<<<<< HEAD
 			// aapt resource value: 0x7f0a00b4
 			public const int action_container = 2131361972;
+=======
+			// aapt resource value: 0x7f0a00af
+			public const int action_container = 2131361967;
+>>>>>>> 0458d6403020598fa905bc5c8147a13dedf24d04
 			
 			// aapt resource value: 0x7f0a008e
 			public const int action_context_bar = 2131361934;
 			
+<<<<<<< HEAD
 			// aapt resource value: 0x7f0a00bf
 			public const int action_divider = 2131361983;
 			
 			// aapt resource value: 0x7f0a00b5
 			public const int action_image = 2131361973;
+=======
+			// aapt resource value: 0x7f0a00ba
+			public const int action_divider = 2131361978;
+			
+			// aapt resource value: 0x7f0a00b0
+			public const int action_image = 2131361968;
+>>>>>>> 0458d6403020598fa905bc5c8147a13dedf24d04
 			
 			// aapt resource value: 0x7f0a0003
 			public const int action_menu_divider = 2131361795;
@@ -3304,11 +3317,19 @@ namespace StudentHelper
 			// aapt resource value: 0x7f0a006b
 			public const int action_mode_close_button = 2131361899;
 			
+<<<<<<< HEAD
 			// aapt resource value: 0x7f0a00b6
 			public const int action_text = 2131361974;
 			
 			// aapt resource value: 0x7f0a00c0
 			public const int actions = 2131361984;
+=======
+			// aapt resource value: 0x7f0a00b1
+			public const int action_text = 2131361969;
+			
+			// aapt resource value: 0x7f0a00bb
+			public const int actions = 2131361979;
+>>>>>>> 0458d6403020598fa905bc5c8147a13dedf24d04
 			
 			// aapt resource value: 0x7f0a006c
 			public const int activity_chooser_view_content = 2131361900;
@@ -3370,8 +3391,13 @@ namespace StudentHelper
 			// aapt resource value: 0x7f0a0086
 			public const int checkbox = 2131361926;
 			
+<<<<<<< HEAD
 			// aapt resource value: 0x7f0a00be
 			public const int chronometer = 2131361982;
+=======
+			// aapt resource value: 0x7f0a00b9
+			public const int chronometer = 2131361977;
+>>>>>>> 0458d6403020598fa905bc5c8147a13dedf24d04
 			
 			// aapt resource value: 0x7f0a0061
 			public const int clip_horizontal = 2131361889;
@@ -3493,8 +3519,13 @@ namespace StudentHelper
 			// aapt resource value: 0x7f0a0071
 			public const int icon = 2131361905;
 			
+<<<<<<< HEAD
 			// aapt resource value: 0x7f0a00c1
 			public const int icon_group = 2131361985;
+=======
+			// aapt resource value: 0x7f0a00bc
+			public const int icon_group = 2131361980;
+>>>>>>> 0458d6403020598fa905bc5c8147a13dedf24d04
 			
 			// aapt resource value: 0x7f0a0041
 			public const int ifRoom = 2131361857;
@@ -3502,8 +3533,13 @@ namespace StudentHelper
 			// aapt resource value: 0x7f0a006e
 			public const int image = 2131361902;
 			
+<<<<<<< HEAD
 			// aapt resource value: 0x7f0a00ba
 			public const int info = 2131361978;
+=======
+			// aapt resource value: 0x7f0a00b5
+			public const int info = 2131361973;
+>>>>>>> 0458d6403020598fa905bc5c8147a13dedf24d04
 			
 			// aapt resource value: 0x7f0a0068
 			public const int italic = 2131361896;
@@ -3532,11 +3568,16 @@ namespace StudentHelper
 			// aapt resource value: 0x7f0a0070
 			public const int list_item = 2131361904;
 			
+<<<<<<< HEAD
 			// aapt resource value: 0x7f0a00b2
 			public const int loginBtnID = 2131361970;
 			
 			// aapt resource value: 0x7f0a00c9
 			public const int masked = 2131361993;
+=======
+			// aapt resource value: 0x7f0a00be
+			public const int masked = 2131361982;
+>>>>>>> 0458d6403020598fa905bc5c8147a13dedf24d04
 			
 			// aapt resource value: 0x7f0a009c
 			public const int message = 2131361948;
@@ -3556,9 +3597,12 @@ namespace StudentHelper
 			// aapt resource value: 0x7f0a002f
 			public const int multiply = 2131361839;
 			
+<<<<<<< HEAD
 			// aapt resource value: 0x7f0a00b3
 			public const int myNameIdl = 2131361971;
 			
+=======
+>>>>>>> 0458d6403020598fa905bc5c8147a13dedf24d04
 			// aapt resource value: 0x7f0a00a9
 			public const int navigation_header_container = 2131361961;
 			
@@ -3571,6 +3615,7 @@ namespace StudentHelper
 			// aapt resource value: 0x7f0a0025
 			public const int normal = 2131361829;
 			
+<<<<<<< HEAD
 			// aapt resource value: 0x7f0a00bc
 			public const int notification_background = 2131361980;
 			
@@ -3579,6 +3624,16 @@ namespace StudentHelper
 			
 			// aapt resource value: 0x7f0a00b7
 			public const int notification_main_column_container = 2131361975;
+=======
+			// aapt resource value: 0x7f0a00b7
+			public const int notification_background = 2131361975;
+			
+			// aapt resource value: 0x7f0a00b3
+			public const int notification_main_column = 2131361971;
+			
+			// aapt resource value: 0x7f0a00b2
+			public const int notification_main_column_container = 2131361970;
+>>>>>>> 0458d6403020598fa905bc5c8147a13dedf24d04
 			
 			// aapt resource value: 0x7f0a0060
 			public const int outline = 2131361888;
@@ -3616,11 +3671,19 @@ namespace StudentHelper
 			// aapt resource value: 0x7f0a0055
 			public const int right = 2131361877;
 			
+<<<<<<< HEAD
 			// aapt resource value: 0x7f0a00bb
 			public const int right_icon = 2131361979;
 			
 			// aapt resource value: 0x7f0a00b9
 			public const int right_side = 2131361977;
+=======
+			// aapt resource value: 0x7f0a00b6
+			public const int right_icon = 2131361974;
+			
+			// aapt resource value: 0x7f0a00b4
+			public const int right_side = 2131361972;
+>>>>>>> 0458d6403020598fa905bc5c8147a13dedf24d04
 			
 			// aapt resource value: 0x7f0a000c
 			public const int save_image_matrix = 2131361804;
@@ -3778,11 +3841,19 @@ namespace StudentHelper
 			// aapt resource value: 0x7f0a001a
 			public const int textinput_helper_text = 2131361818;
 			
+<<<<<<< HEAD
 			// aapt resource value: 0x7f0a00bd
 			public const int time = 2131361981;
+=======
+			// aapt resource value: 0x7f0a00b8
+			public const int time = 2131361976;
+>>>>>>> 0458d6403020598fa905bc5c8147a13dedf24d04
 			
 			// aapt resource value: 0x7f0a0023
 			public const int title = 2131361827;
+			
+			// aapt resource value: 0x7f0a009e
+			public const int title1 = 2131361950;
 			
 			// aapt resource value: 0x7f0a0080
 			public const int titleDividerNoCustom = 2131361920;
@@ -3835,8 +3906,13 @@ namespace StudentHelper
 			// aapt resource value: 0x7f0a001b
 			public const int view_offset_helper = 2131361819;
 			
+<<<<<<< HEAD
 			// aapt resource value: 0x7f0a00c8
 			public const int visible = 2131361992;
+=======
+			// aapt resource value: 0x7f0a00bd
+			public const int visible = 2131361981;
+>>>>>>> 0458d6403020598fa905bc5c8147a13dedf24d04
 			
 			// aapt resource value: 0x7f0a0043
 			public const int withText = 2131361859;
